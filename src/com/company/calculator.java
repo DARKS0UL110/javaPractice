@@ -35,10 +35,10 @@ public class calculator implements ActionListener {
         calculator.setLayout(null);
         calculator.setVisible(true);
 
-        header = new JPanel();
-        header.setBounds(0,0,500,60);
-        header.setLayout(null);
-        header.setBackground(Color.black);
+//        header = new JPanel();
+//        header.setBounds(0,0,500,60);
+//        header.setLayout(null);
+//        header.setBackground(Color.black);
 
         cal = new JLabel();
         cal.setText("Calculator");
